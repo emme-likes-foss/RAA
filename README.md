@@ -1,2 +1,2 @@
 # RAA
-Reductio ad Absurdum.
+This is my own take on a suckless piece of software. Enjoy!
